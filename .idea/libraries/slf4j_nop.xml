@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="slf4j-nop">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/../TP1-20230207T203416Z-001/TP1/slf4j-nop.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
